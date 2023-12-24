@@ -43,5 +43,5 @@ After gripping the product, LogisticBot autonomously moves to the designated del
 
 At the delivery point, the robot gently releases the product, completing the entire automation process seamlessly.
 
-This project showcases our commitment to innovation and the application of cutting-edge technologies in addressing real-world challenges. I look forward to further discussions and collaboration opportunities surrounding LogisticBot. Feel free to explore the project on [GitHub](Link to your GitHub Repository), where detailed code and documentation are available.
+This project showcases our commitment to innovation and the application of cutting-edge technologies in addressing real-world challenges. I look forward to further discussions and collaboration opportunities surrounding LogisticBot. Feel free to explore the project on [GitHub]([Link to your GitHub Repository](https://github.com/MaherElshimy/logistics_web_app.git)), where detailed code and documentation are available.
 
