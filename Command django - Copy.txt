@@ -1,0 +1,8 @@
+1- venv\Scripts\activate
+2- cd Authentication_project
+3- pip install -r requirements.txt
+4- python manage.py runserver
+
+5-uvicorn Authentication_project.asgi:application
+6-uvicorn --host 192.168.1.11 Authentication_project.asgi:application
+
